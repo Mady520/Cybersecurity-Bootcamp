@@ -1,5 +1,6 @@
 # Structure 
 Command name + [option/s] + [Arguments]
+
 Options are case sensitive but can be combined.
 
 # Linux Basic Commands 
