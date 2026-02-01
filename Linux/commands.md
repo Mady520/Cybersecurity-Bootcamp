@@ -36,3 +36,9 @@ cd --> Change directory
   cd /home/user/Document --> Absolute path. 
   
   cd /Document --> Relative path.
+  mkdir --> Creates directory.
+   mkdir (directory/folder name ) --> Creates the directory with the name given.
+
+  touch --> Change file timestamps (modification, access time).
+
+  file --> Determine the file type (by doing some test not based on the extension).
