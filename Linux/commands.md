@@ -5,11 +5,11 @@ Options are case sensitive but can be combined.
 
 ## Linux Basic Commands 
 
-1.**cat** --> Displays the contents of a file.
-2. **ls** --> Lists files and directories.
-3. ls -l --> Long format of a directory/file with every detail along with modification time.
-4 .ls -lu --> Shows last accessed time. 
-5. ncal --> calender with present day coloured.
+1.**cat** --> Displays the contents of a file.  
+2. **ls** --> Lists files and directories.  
+3. ls -l --> Long format of a directory/file with every detail along with modification time.  
+4 .ls -lu --> Shows last accessed time.   
+5. ncal --> calender with present day coloured.  
   e.g ncal 2026 --> Will show claneder of full year.   
 6. man --> shows manual pages/documentation of a command. 
   e.g man cat --> will display usage + every option of this command that can be used.
