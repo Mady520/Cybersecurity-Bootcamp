@@ -29,4 +29,6 @@ Options are case sensitive but can be combined.
 20. rm -d --> for removing directories.
 21. rm -r --> Removes directories with their contents.
 22. **cp** --> Copies files and Directories.
-23. **mv** --> Moves files and Directories.  
+23. **mv** --> Moves files and Directories.
+24. **rmdir** --> removes empty Directories.
+25. 
