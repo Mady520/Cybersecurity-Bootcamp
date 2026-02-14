@@ -1,5 +1,5 @@
-# Linux-Networking-foundations
-This repository documents my structured learning journey in linux and Networking
+# Cybersecurity-bootcamp
+This repository documents my structured learning journey in Cybersecurity.
 
 # Goals 
 - Build strong Linux command-line skills
