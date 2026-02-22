@@ -33,4 +33,10 @@ Options are case sensitive but can be combined.
 24. `rmdir` &rarr; removes empty Directories.
 25. `clear` &rarr; used to clear the terminal screen.
 26. `echo` &rarr; used to display text in terminal.
+27. `ls -h` &rarr; Lists in human readable format.
+28. `ps` &rarr; lists running processes.
+29. `dpkg` &rarr; package installers.
+30. `SIGKILL` kill a process ,doesn't do any cleanup after the fact.
+31. `chmod 777` Change permission of files/folders.
+    
 
