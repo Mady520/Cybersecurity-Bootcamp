@@ -4,6 +4,7 @@ This repository documents my structured learning journey in Cybersecurity.
 # Goals 
 - Build strong Linux command-line skills
 - Understand networking fundamentals
+- Understand python and bash.  
 - Practice real commands and tools
 - Complete hands-on labs
 - Documents learning with practical notes
